@@ -1,4 +1,4 @@
-# pgrok - Introspected tunnels to localhost
+# pgrok - Introspected tunnels to localhost.
 
 ### ”I want to expose a local server behind a NAT or firewall to the internet.”
 
